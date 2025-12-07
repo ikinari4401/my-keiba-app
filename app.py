@@ -5,7 +5,7 @@ import numpy as np
 from pathlib import Path
 
 st.set_page_config(page_title="自分専用競馬予想", layout="wide")
-st.title("🐎 自分だけの競馬予想アプリ")
+st.title("🐎 競馬予想アプリ舜")
 
 tab1, tab2, tab3 = st.tabs(["今日のレース入力", "過去レース登録", "学習・設定"])
 
